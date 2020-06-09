@@ -1,0 +1,57 @@
+E-mail me for translation ^^
+
+flchGauche = C05C5A
+
+flchDroite = C05C5B
+
+flchHaut = C05C58
+
+flchBas = C05C59
+
+volume+ = C05C10
+
+volume- = C05C11
+
+prgm+ = C05C20
+
+prgm- = C05C21
+
+1 = C05C01
+
+2 = C05C02
+
+3 = C05C03
+
+4 = C05C04
+
+5 = C05C05
+
+6 = C05C06
+
+7 = C05C07
+
+8 = C05C08
+
+9 = C05C09
+
+pas de son = C05C0D
+
+pause = C05C24
+
+lecture = C05C3E
+
+stop = 
+
+rec = C05C40
+
+OK = C05C5C
+
+return = C05C83
+
+rouge = C05C6D
+
+vert = C05C6E
+
+jaune = C05C6F
+
+bleu = C05C70
